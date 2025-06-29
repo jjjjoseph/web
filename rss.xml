@@ -1,17 +1,19 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title></title>
         <subtitle></subtitle>
         <icon>https://jjjjoseph.github.io/images/favicon.ico</icon>
         <link>https://jjjjoseph.github.io</link>
         <author>
-          <name>Joseph-Lin</name>
+          <name>品逸</name>
         </author>
-        <description></description>
+        <description>品逸的網站</description>
         <language>zh-TW</language>
         <pubDate>Fri, 27 Jun 2025 13:18:10 +0800</pubDate>
         <lastBuildDate>Fri, 27 Jun 2025 13:18:10 +0800</lastBuildDate>
+        <category term="帥企鵝" />
+        <category term=" gj94fu4k6" />
         <item>
             <guid isPermalink="true">https://jjjjoseph.github.io/2025/06/27/hello-world/</guid>
             <title>Hello World</title>

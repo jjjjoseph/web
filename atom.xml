@@ -1,14 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jjjjoseph.github.io</id>
-    <title>Hexo</title>
+    <title></title>
     <subtitle></subtitle>
     <icon>https://jjjjoseph.github.io/images/favicon.ico</icon>
     <link href="https://jjjjoseph.github.io" />
     <author>
-      <name>Joseph-Lin</name>
+      <name>品逸</name>
     </author>
     <updated>2025-06-27T05:18:10.704Z</updated>
+    <category term="帥企鵝" />
+    <category term=" gj94fu4k6" />
     <entry>
         <id>https://jjjjoseph.github.io/2025/06/27/hello-world/</id>
         <title>Hello World</title>
