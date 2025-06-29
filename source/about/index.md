@@ -1,8 +1,12 @@
 ---
 title: about me
-date: 2025-06-13 00:29:11
 layout: page
 permalink: /about/
+# categories:
+#   - 關於我
+# tags:
+#   - 自我介紹
+#   - 學經歷
 ---
 
 
